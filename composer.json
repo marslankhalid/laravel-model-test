@@ -1,5 +1,5 @@
 {
-  "name": "tmsllc/laravel-model-test",
+  "name": "marslankhalid/laravel-model-test",
   "description": "A package to create CRUD feature tests to eloquent models",
   "keywords": [
     "laravel",
@@ -7,7 +7,7 @@
     "feature",
     "automate-test"
   ],
-  "homepage": "https://github.com/tmsllc/laravel-model-test",
+  "homepage": "https://github.com/marslankhalid/laravel-model-test",
   "license": "MIT",
   "authors": [
     {
